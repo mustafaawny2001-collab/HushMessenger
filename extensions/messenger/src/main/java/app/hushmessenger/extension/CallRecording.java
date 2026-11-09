@@ -1,8 +1,4 @@
-package app.hushmessenger.extension;
-
-import android.Manifest;
-import android.annotation.SuppressLint;
-import android.annotation.TargetApi;
+Mepackage app.hushmessenger.extension;diaRecorder
 import android.app.Activity;
 import android.app.Application;
 import android.app.Notification;
